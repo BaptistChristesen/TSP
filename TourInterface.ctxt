@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TourInterface
+comment1.params=
+comment1.target=int\ size()
+comment2.params=
+comment2.target=double\ distance()
+comment3.params=p
+comment3.target=void\ add(Point)
+comment4.params=p
+comment4.target=void\ insertNearest(Point)
+comment5.params=p
+comment5.target=void\ insertSmallest(Point)
+comment6.params=
+comment6.target=void\ print()
+comment7.params=g
+comment7.target=void\ draw(java.awt.Graphics)
+numComments=8

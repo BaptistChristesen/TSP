@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Tour
+comment0.text=\n\ This\ class\ is\ a\ specialized\ Linked\ List\ of\ Points\ that\ represents\ a\n\ Tour\ of\ locations\ attempting\ to\ solve\ the\ Traveling\ Salesperson\ Problem\n\ \n\ @author\n\ @version\n
+comment1.params=
+comment1.target=Tour()
+comment2.params=
+comment2.target=int\ size()
+comment3.params=p
+comment3.target=void\ add(Point)
+comment4.params=
+comment4.target=void\ print()
+comment5.params=g
+comment5.target=void\ draw(java.awt.Graphics)
+comment6.params=
+comment6.target=double\ distance()
+comment7.params=p
+comment7.target=void\ insertNearest(Point)
+comment8.params=p
+comment8.target=void\ insertSmallest(Point)
+numComments=9
